@@ -1,4 +1,4 @@
-[![MasterHead](https://pbs.twimg.com/media/EwEOHfdXEAAxb95.jpg:large)
+![MasterHead](https://www.kampustenevar.com/medya-galerisi/programming-languages-premium-featured_986885.png)
 <h1 align="center">Hi 👋, I'm Dilber</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
