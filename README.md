@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **full stack web development and data science.**
 
-- 📫 How to reach me **dlbr_kartal55@hotmail.com**
+- 📫 How to reach me **dlbrkartal55@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
