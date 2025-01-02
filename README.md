@@ -1,7 +1,7 @@
 <!-- ![MasterHead]()-->
 <h1 align="center">Hi 👋, I'm Dilber</h1>
 
-- 🌱 I’m currently learning **full stack web development and data science.**
+- 🌱 I’m currently learning **data science.**
 
 - 📫 How to reach me **dlbrkartal55@gmail.com**
 
